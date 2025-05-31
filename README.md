@@ -5,9 +5,6 @@
 ## IMPLEMETATION OF VIGENERE CIPHER
  
 
-## IMPLEMETATION OF VIGENERE CIPHER
- 
-
 ## AIM:
 
 To implement the Vigenere Cipher substitution technique using C program.
